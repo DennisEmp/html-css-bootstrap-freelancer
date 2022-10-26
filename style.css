@@ -31,7 +31,7 @@ header {
 }
 
 .line {
-    width: 80px;
+    width: 100px;
     height: 0;
     border: 2px solid #fff;
     border-radius: 4px;
@@ -55,7 +55,7 @@ header {
 }
 
 .line-black {
-    width: 160px;
+    width: 100px;
     height: 0;
     border: 2px solid #000;
     border-radius: 4px;
@@ -66,12 +66,10 @@ header {
     border-radius: 5px;
 }
 
-.main-3 {
-    background-color: #1abc9c;
-    /* height: 500px;
-    width: 100%; */
-}
-
 .button {
-    
+    border: 1px solid #fff;
+    border-radius: 5px;
+    width: 100px;
+    background-color: #1abc9c;
+    color: #fff;
 }
