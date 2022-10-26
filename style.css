@@ -22,8 +22,9 @@ header {
     color: #fff;
 }
 
-.main-1 {
+.bg-green {
     background-color: #1abc9c;
+    color: #fff;
 }
 .img {
     width: 200px;
@@ -61,7 +62,7 @@ header {
 }
 
 .row img {
-    width: 250px;
+    max-width: 100%;
     border-radius: 5px;
 }
 
@@ -69,4 +70,8 @@ header {
     background-color: #1abc9c;
     /* height: 500px;
     width: 100%; */
+}
+
+.button {
+    
 }
